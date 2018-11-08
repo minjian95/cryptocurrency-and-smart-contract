@@ -1,0 +1,17 @@
+Question 4:
+current receive address: mmeC66YfGc63yfGfi5i9pR1ckoEriogMkX
+
+
+
+Question 5:
+transaction ID: 6aa5e06a59f571f3352efed48c73f1bb532da331d8f18a8a1d3ce85cb433b058
+amount of testnet coins: 3.90615207
+number of outputs: 2
+purpose of the output that locks coins: Returns the rest of the input back to coinFaucet.
+
+
+
+Question 8:
+custom bitcoin address: 1VYKUK7VsDihiNtcJz9kB3tGpbdhC8wWj
+
+

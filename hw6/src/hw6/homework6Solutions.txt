@@ -1,0 +1,34 @@
+Question3
+1) Give a detailed explanation on how ScriptTester.run works?
+Ans: a) First we are initializing a WalletAppKit.
+     b) Creating a lockingScript for txs.
+     c) Creating a txA with the lockingScript on its output. Completing and sending txA to Blockchain.
+     d) Creating a txB that uses a part of the output of txA.
+     e) Creating unlocking script to utilize the txA.
+     f) testing the locking, unlocking scripts and txB.
+     g) Setting the Unlocking script for txB input 0 and sending the txB to Blockchain.
+
+2) TxIds
+    a) 42be0848232ea956c706b22cb00d68551d571af4aeb9cc33aaec763736b5f1c5
+    b) 28bcffed8873ce347d72355d96c7d821c09a1d7a8551744bc63eb363e6fdffc7
+
+
+Question4
+TxIds
+    a) 5b8e4f978f0933b25bba2ee2a117cadca901bf63511b1bcafb24fa1901670cba
+    b) 68a9f73abdd3c1ea1448826406229b3de5236cc7c3cb8c1221d2e1ca3bce1bff
+
+
+Question5
+TxIds
+    a) c2f154eaff36cc1fb69ccf1bf23189fb2fd94d2a49a88bdd86ea1558caa34963
+    b) 9561e23291ab5f8b4ef0ff86cb93d556d800af7a39457eccbdf3514778341c9b
+
+Question6
+TxIds
+    a) bb0866fa38399fe1c5b12744f7b3b5b632ee12a1b523f108b2e48b07596dfa6d
+    b) 7f3b99641d9da618f48a18d7cf24196b36108e06bdf14cc183bb25043ccf0625
+
+Question7
+TxId
+    122b4465dcef351fbf9f83c92daa4c8982e63685421400e31f50bd383413d115
